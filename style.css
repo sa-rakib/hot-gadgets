@@ -1,0 +1,13 @@
+
+.container{
+    margin-bottom: 60px;
+}
+.carousel-item{
+    background-color: cadetblue;
+    padding: 10px 30px;
+}
+.card{
+    border: none;
+    box-shadow: 3px 11px 10px gray;
+    border-radius: 8px;
+}
